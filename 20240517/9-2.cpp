@@ -22,7 +22,7 @@ class Book {
 };
 
 Book& operator+=(Book& book, int amount) {
-    book.price += amount;
+    book.price += amount; 
     return book;
 }
 

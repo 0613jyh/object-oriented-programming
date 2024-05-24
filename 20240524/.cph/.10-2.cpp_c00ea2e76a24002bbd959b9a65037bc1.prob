@@ -1,0 +1,1 @@
+{"name":"Local: 10-2","url":"c:\\Users\\Junyeong Han\\Desktop\\object-oriented-programming\\20240524\\10-2.cpp","tests":[{"id":1716514095582,"input":"5 크림\n8 치즈\n25 빅\n30 블랙\n15 페퍼","output":"블랙"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Junyeong Han\\Desktop\\object-oriented-programming\\20240524\\10-2.cpp","group":"local","local":true}
