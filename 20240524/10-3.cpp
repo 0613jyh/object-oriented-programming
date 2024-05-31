@@ -55,5 +55,5 @@ int main() {
     while(mQ.length() != 0){
         cout << mQ.dequeue() << ' '; 
     }
-    cout << endl << "큐의 현재 크기 : " << mQ.length() << endl;    
+    cout << endl << "큐의 현재 크기 : " << mQ.length() << "." << endl;    
 }
